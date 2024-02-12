@@ -1,5 +1,5 @@
 # Weather App
-    This is a simple web application built with Express.js and MongoDB for fetching weather data based on user input. Users can register, log in, and log out. Registered users can search for weather information of a city, view the weather details, and view random cat facts associated with that city.
+>This is a simple web application built with Express.js and MongoDB for fetching weather data based on user input. Users can register, log in, and log out. Registered users can search for weather information of a city, view the weather details, and view random cat facts associated with that city.
 
 # Prerequisites
 > Before you begin, ensure you have met the following requirements:
@@ -21,7 +21,7 @@
 
 # Usage
 > To run the application, use the following command:
-    npm start
+    node app.js
     Access the application through a web browser at http://localhost:3000.
 
 # Features
