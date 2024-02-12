@@ -1,0 +1,24 @@
+{
+  "name": "doni",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.18.0",
+    "flickrapi": "^0.6.2",
+    "https": "^1.0.0",
+    "mongoose": "^8.1.1",
+    "newsapi": "^2.4.1",
+    "node-fetch": "^3.3.2"
+  },
+  "description": ""
+}
